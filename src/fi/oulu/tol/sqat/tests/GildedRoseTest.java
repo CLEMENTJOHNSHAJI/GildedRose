@@ -154,6 +154,7 @@ public class GildedRoseTest {
 		// Act
 		store.updateEndOfDay();
 		store.updateEndOfDay();
+		//fdgjmlkfdg
 	
 		
 		// Assert
